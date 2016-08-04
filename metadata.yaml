@@ -1,0 +1,31 @@
+_repo: The-Count-s-Millions_305
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gaboriau, Emile
+    alias: Gaboriau, Émile
+    birthdate: 1832
+    deathdate: 1873
+    gutenberg_agent_id: '172'
+    url: http://www.gutenberg.org/2009/agents/172
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
+    - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
+description: 'A novel in two parts. see PG#547 for Part Two: "Baron Trigault''s Vengeance"'
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2008-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '305'
+language: en
+language_note: Translated from French
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: The Count's Millions
+url: http://www.gutenberg.org/ebooks/305
