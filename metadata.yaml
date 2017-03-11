@@ -1,5 +1,8 @@
 _repo: The-Count-s-Millions_305
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gaboriau, Emile
@@ -12,6 +15,8 @@ creator:
     - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
     - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
 description: 'A novel in two parts. see PG#547 for Part Two: "Baron Trigault''s Vengeance"'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/305#The-Count-s-Millions
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2008-07-02'
 gutenberg_type: Text
